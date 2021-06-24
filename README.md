@@ -1,4 +1,4 @@
-# CPU-Scheduling-Algorit
+# CPU-Scheduling-Algorithm
 
 - First Come First Serve (FCFS) - FCFS_CPU.py
 - Shortest Remaining Time (SRT) Preemptive - SJF_CPU.py
